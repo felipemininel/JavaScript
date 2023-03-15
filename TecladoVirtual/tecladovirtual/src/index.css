@@ -1,0 +1,28 @@
+.keyboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.key {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  font-size: 20px;
+  padding: 10px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.key:hover {
+  background-color: #eee;
+}
