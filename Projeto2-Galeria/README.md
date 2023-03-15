@@ -1,0 +1,1 @@
+Projeto em JavaScript/NPM com CSS e HTML, aplicação de galeria de fotos, onde o usuário pode visualizar, adicionar e remover imagens.
